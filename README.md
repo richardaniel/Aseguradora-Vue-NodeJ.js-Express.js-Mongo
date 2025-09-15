@@ -7,3 +7,8 @@ WEB CLIENT
 BD -MONGO
 <img width="1532" height="897" alt="image" src="https://github.com/user-attachments/assets/b539dbea-7050-41df-97f2-1e615c8a524c" />
 
+Documentacion API
+<img width="1918" height="980" alt="image" src="https://github.com/user-attachments/assets/995718a3-d5fb-4c5c-b06c-daa91a234028" />
+
+
+
