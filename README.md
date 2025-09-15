@@ -4,3 +4,6 @@ POST de una Poliza
 WEB CLIENT
 <img width="1901" height="825" alt="image" src="https://github.com/user-attachments/assets/145a4e02-741b-4179-ab1e-cded58336dd6" />
 
+BD -MONGO
+<img width="1532" height="897" alt="image" src="https://github.com/user-attachments/assets/b539dbea-7050-41df-97f2-1e615c8a524c" />
+
